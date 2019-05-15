@@ -1,4 +1,4 @@
-This porject aims to give demonstration of the [LazyLoad](https://github.com/twobin/react-lazyload) Library which bascially makes sure that components are only rendered when they enter the viewport. This reduces the load time of the application.
+This project aims to give demonstration of the [LazyLoad](https://github.com/twobin/react-lazyload) Library which bascially makes sure that components are only rendered when they enter the viewport. This reduces the load time of the application.
 
 ## Try now:
 Link: https://nishitmehta1.github.io/reactjs-LazyLoadDemo/
