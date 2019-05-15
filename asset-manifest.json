@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/reactjs-LazyLoadDemo/static/css/main.49dc56e8.chunk.css",
+    "main.js": "/reactjs-LazyLoadDemo/static/js/main.c1bfd2f9.chunk.js",
+    "main.js.map": "/reactjs-LazyLoadDemo/static/js/main.c1bfd2f9.chunk.js.map",
+    "runtime~main.js": "/reactjs-LazyLoadDemo/static/js/runtime~main.a3a99f10.js",
+    "runtime~main.js.map": "/reactjs-LazyLoadDemo/static/js/runtime~main.a3a99f10.js.map",
+    "static/css/2.266e55a5.chunk.css": "/reactjs-LazyLoadDemo/static/css/2.266e55a5.chunk.css",
+    "static/js/2.1e91fab2.chunk.js": "/reactjs-LazyLoadDemo/static/js/2.1e91fab2.chunk.js",
+    "static/js/2.1e91fab2.chunk.js.map": "/reactjs-LazyLoadDemo/static/js/2.1e91fab2.chunk.js.map",
+    "index.html": "/reactjs-LazyLoadDemo/index.html",
+    "precache-manifest.436711f521b412c45134ff7372acdc0b.js": "/reactjs-LazyLoadDemo/precache-manifest.436711f521b412c45134ff7372acdc0b.js",
+    "service-worker.js": "/reactjs-LazyLoadDemo/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/reactjs-LazyLoadDemo/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.49dc56e8.chunk.css.map": "/reactjs-LazyLoadDemo/static/css/main.49dc56e8.chunk.css.map"
+  }
+}
